@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Abir Calculator</string>
+
+    <!-- Navigation & Top Bar Content Descriptions -->
+    <string name="cd_expand_collapse">Expand or collapse calculator view</string>
+    <string name="cd_scientific_mode">Toggle scientific functions</string>
+    <string name="cd_tools_mode">Open calculator tools and converter</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_swap_currencies">Swap currencies</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_copy_result">Copy result</string>
+    <string name="cd_delete_item">Delete entry</string>
+    <string name="cd_favorite_currency">Toggle favorite currency</string>
+    <string name="cd_edit_rate">Edit exchange rate</string>
+
+    <!-- Menu & Actions -->
+    <string name="menu_history">Calculation History</string>
+    <string name="menu_currency_converter">Currency Converter</string>
+    <string name="menu_copy_result">Copy Result</string>
+    <string name="menu_paste_number">Paste Number</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_reset">Reset Default</string>
+    <string name="action_confirm">Confirm</string>
+
+    <!-- Calculator Messages -->
+    <string name="msg_copied_to_clipboard">Copied to clipboard</string>
+    <string name="msg_nothing_to_paste">Clipboard has no valid number</string>
+    <string name="msg_error_div_zero">Cannot divide by 0</string>
+    <string name="msg_error_invalid_expr">Invalid expression</string>
+
+    <!-- Currency Converter -->
+    <string name="title_currency_converter">Currency Converter</string>
+    <string name="badge_offline_reference">Offline Reference Rates</string>
+    <string name="disclaimer_reference_rates">Reference rates stored locally for offline use. Not guaranteed live market rates.</string>
+    <string name="action_refresh_online">Update Online Rates</string>
+    <string name="label_last_updated">Last updated: %1$s</string>
+    <string name="label_from">From</string>
+    <string name="label_to">To</string>
+    <string name="label_favorites">Favorites</string>
+    <string name="label_all_currencies">All Currencies</string>
+    <string name="label_recent_conversions">Recent Conversions</string>
+    <string name="hint_search_currency">Search currency code or name…</string>
+    <string name="title_edit_rate">Edit Reference Rate</string>
+
+    <!-- History -->
+    <string name="title_history">Calculation History</string>
+    <string name="hint_search_history">Search expressions or results…</string>
+    <string name="empty_history_title">No calculations yet</string>
+    <string name="empty_history_subtitle">Completed calculations will appear here automatically for quick reuse.</string>
+    <string name="confirm_clear_history_title">Clear All History?</string>
+    <string name="confirm_clear_history_body">This will permanently remove all saved calculations from this device.</string>
+
+    <!-- Settings -->
+    <string name="title_settings">Settings</string>
+    <string name="section_appearance">Appearance</string>
+    <string name="section_haptics_audio">Haptics &amp; Sound</string>
+    <string name="section_calculation">Calculation &amp; Formatting</string>
+    <string name="section_privacy">Privacy &amp; Offline Mode</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Abir Calculator",
+  "description": "ColorOS 16 Liquid Glass inspired native Android calculator with scientific functions, calculation history, tactile haptics, and an offline currency converter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
